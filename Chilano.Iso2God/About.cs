@@ -123,7 +123,7 @@ public class About : Form
 
     private void About_Load(object sender, EventArgs e)
     {
-        lblVersion.Text = "v" + ((Main)base.Owner).getVersion(build: true, revision: false) + " - blahpr github";
+        lblVersion.Text = "v" + ((Main)base.Owner).getVersion(build: true, revision: false) + " - r4dius github";
     }
 
     private void button1_Click(object sender, EventArgs e)
@@ -143,6 +143,6 @@ public class About : Form
 
     private void letGoToGithub()
     {
-        System.Diagnostics.Process.Start("https://github.com/blahpr/Iso2God");
+        System.Diagnostics.Process.Start("https://github.com/r4dius/Iso2God");
     }
 }
