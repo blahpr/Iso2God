@@ -1,5 +1,6 @@
 # Iso2God
-Decompiled Iso2God for quality of life improvements
+* Latest exe Build https://github.com/blahpr/Iso2God/releases/latest
+* Decompiled Iso2God for quality of life improvements
 
 This mod adds :
 - Delete ISO After Completion
