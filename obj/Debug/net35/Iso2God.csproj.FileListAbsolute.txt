@@ -1,0 +1,28 @@
+C:\Users\Bobzer\Desktop\Iso2God-main\bin\Debug\net35\Iso2God.exe.config
+C:\Users\Bobzer\Desktop\Iso2God-main\bin\Debug\net35\Iso2God.exe
+C:\Users\Bobzer\Desktop\Iso2God-main\bin\Debug\net35\Iso2God.pdb
+C:\Users\Bobzer\Desktop\Iso2God-main\obj\Debug\net35\Iso2God.csproj.AssemblyReference.cache
+C:\Users\Bobzer\Desktop\Iso2God-main\obj\Debug\net35\Chilano.Iso2God.Properties.Resources.resources
+C:\Users\Bobzer\Desktop\Iso2God-main\obj\Debug\net35\Chilano.Iso2God.About.resources
+C:\Users\Bobzer\Desktop\Iso2God-main\obj\Debug\net35\Chilano.Iso2God.AddISO.resources
+C:\Users\Bobzer\Desktop\Iso2God-main\obj\Debug\net35\Chilano.Iso2God.Main.resources
+C:\Users\Bobzer\Desktop\Iso2God-main\obj\Debug\net35\Chilano.Iso2God.Settings.resources
+C:\Users\Bobzer\Desktop\Iso2God-main\obj\Debug\net35\Iso2God.csproj.GenerateResource.cache
+C:\Users\Bobzer\Desktop\Iso2God-main\obj\Debug\net35\Iso2God.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bobzer\Desktop\Iso2God-main\obj\Debug\net35\Iso2God.csproj.CoreCompileInputs.cache
+C:\Users\Bobzer\Desktop\Iso2God-main\obj\Debug\net35\Iso2God.exe
+C:\Users\Bobzer\Desktop\Iso2God-main\obj\Debug\net35\Iso2God.pdb
+C:\Users\Bobzer\Desktop\Iso2God Realoaded v1.4.0\bin\Debug\net35\Iso2God.exe.config
+C:\Users\Bobzer\Desktop\Iso2God Realoaded v1.4.0\bin\Debug\net35\Iso2God.exe
+C:\Users\Bobzer\Desktop\Iso2God Realoaded v1.4.0\bin\Debug\net35\Iso2God.pdb
+C:\Users\Bobzer\Desktop\Iso2God Realoaded v1.4.0\obj\Debug\net35\Iso2God.csproj.AssemblyReference.cache
+C:\Users\Bobzer\Desktop\Iso2God Realoaded v1.4.0\obj\Debug\net35\Chilano.Iso2God.Properties.Resources.resources
+C:\Users\Bobzer\Desktop\Iso2God Realoaded v1.4.0\obj\Debug\net35\Chilano.Iso2God.About.resources
+C:\Users\Bobzer\Desktop\Iso2God Realoaded v1.4.0\obj\Debug\net35\Chilano.Iso2God.AddISO.resources
+C:\Users\Bobzer\Desktop\Iso2God Realoaded v1.4.0\obj\Debug\net35\Chilano.Iso2God.Main.resources
+C:\Users\Bobzer\Desktop\Iso2God Realoaded v1.4.0\obj\Debug\net35\Chilano.Iso2God.Settings.resources
+C:\Users\Bobzer\Desktop\Iso2God Realoaded v1.4.0\obj\Debug\net35\Iso2God.csproj.GenerateResource.cache
+C:\Users\Bobzer\Desktop\Iso2God Realoaded v1.4.0\obj\Debug\net35\Iso2God.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bobzer\Desktop\Iso2God Realoaded v1.4.0\obj\Debug\net35\Iso2God.csproj.CoreCompileInputs.cache
+C:\Users\Bobzer\Desktop\Iso2God Realoaded v1.4.0\obj\Debug\net35\Iso2God.exe
+C:\Users\Bobzer\Desktop\Iso2God Realoaded v1.4.0\obj\Debug\net35\Iso2God.pdb
