@@ -1,4 +1,4 @@
-# Iso2God
+# Iso2God - For Windows
 ### Anyone Can Make Changes As They See Fit. Like Change Stuff, Add Stuff, Re-Name Stuff, Dislike Stuff You Can Please Feel Free.
 * Latest exe Build https://github.com/blahpr/Iso2God/releases/latest
 * Decompiled Iso2God for quality of life improvements
